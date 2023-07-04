@@ -13,9 +13,11 @@
 | ls -l | Shows details about the **visible** folders or files like, owner, team and date | drwxr-xr-x  15 sandra  staff  480  4 Jul 18:09 bnta_work
 |rm | Used to delete files | rm my_file.txt |
 |rm -r | Deletes the folder recursively, even the empty folder | rm -r my_folder |
-| rm -rf | <span style="color: #f25477">**Don't use it NEVER in your life unless you want to broke and unrecover your beautiful MAC**</span> | No example, just know that exists |
+| rm -rf | <span style="color: #f25477">**Don't use it NEVER in your life unless you want to broke and unrecover your beautiful MAC**</span> | ==No example, just know that exists== |
 | touch | Create files | touch my_file.txt Just be sure about where you are creating the file |
 | open . | This will open the file that we just create like my_file.txt | open . And this will open the text editor with our file on it <span style="color: #ffa7a6">**NOTE: The space between open and the dot is important** </span>
 | code . | This will open the Visual Studio Code app and the file related | code . And the app will be opened with the the file and the folder tree <span style="color: #ffa7a6">**NOTE: Remember the space** </span>| 
 | mv | This command is for move files or rename it | - Move files   <span style="color: #f25477">mv example.txt /Users/Sandra</span> This will move the file *example.txt* to the folder Sandra. - Rename files  <span style="color: #f25477">mv example.txt exm.txt</span> This will change the name for exm.txt |
+| clear | Will give you an empty space but you can scroll up to see what was before | NA |
+|
 
