@@ -5,7 +5,7 @@ Both Terminal and Git are important tools in my career as software engineer, so 
 ## MVP (Minimum Viable Product)
 
 - Create a Markdown file to record the research about commands:
-`touch terminal_cheatsheat.md`. (Note, the `.md` file extension, which denotes this as a Markdown file.)
+`touch terminal_cheatsheet.md`. (Note, the `.md` file extension, which denotes this as a Markdown file.)
 - Open the `terminal_cheatsheet.md` using VSCode.
 - Use markdown to create a Terminal commands cheatsheet. There are many resources on the web to help me get to know Markdown.
 - Here is a Markdown cheatsheet to get started: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). 
