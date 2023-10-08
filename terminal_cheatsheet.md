@@ -1,13 +1,13 @@
-# <span style="color: #ffa7a6">Lab #1</span> 
+# Commands cheatsheet for terminal
+Below you will find some core commands is necessary to know for navigating around the terminal proficiently.
 
-### <span style="color: #f25477">This is a list of commands we learned today **day 2, Tuesday 4 July 2023** to handle the terminal.</span> 
-
+## Terminal Commands
 | Command     | Description | Example
 | ----------- | ----------- | -----------
-| ➜  ~        | It is not a command but indicates home directory | /Users/sandra|
-| pwd         | To see the actual directory | /Users/sandra/Documents |
-|cd          | Change Directory| ➜  ~  cd D and you push shift, so you can see the available folders. We selected Documents in this case |
-|cd ..   | With this you will navigate to the parent directory <span style="color: #ffa7a6">**NOTE: The space between cd and the dots is important** </span>   | After doing that you on Documents you will come back to /Users/Sandra |
+| `➜  ~`        | It is not a command but indicates home directory | /Users/sandra|
+| `pwd`         | To see the actual directory | /Users/sandra/Documents |
+|`cd`          | Change Directory| ➜  ~  cd D and you push shift, so you can see the available folders. We selected Documents in this case |
+|`cd .. `  | With this you will navigate to the parent directory **NOTE: The space between cd and the dots is important**   | After doing that you on Documents you will come back to /Users/Sandra |
 | ls   | Shows a list of the folders and files that are already in the folder you are navigating | **ls** in Documents will show me bnta_work and c11_coursenotes |
 | ls -a | Shows a list of the files or folders that are hidden for the best, so as users will not mess around them <span style="color: #ffa7a6">**NOTE: The space between cd and the dots is important** </span>  | *.DS_Store , .localized*  <span style="color: #ffa7a6">**NOTE: It has a point precedent, indicating a hidden document and maybe forbidden** </span> |
 | ls -l | Shows details about the **visible** folders or files like, owner, team and date | drwxr-xr-x  15 sandra  staff  480  4 Jul 18:09 bnta_work
